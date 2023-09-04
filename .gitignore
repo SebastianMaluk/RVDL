@@ -1,0 +1,5 @@
+tensorflow_datasets/
+Sketch_EITZ/
+__pycache__/
+.DS_Store
+*.keras
